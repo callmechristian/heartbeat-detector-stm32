@@ -1,0 +1,14 @@
+*.exe
+*.csv
+/datasets
+/res
+/gsc_output_fixed
+.ipynb_checkpoints
+/full_model.h
+*.pcm
+lab_gsc.h5
+Lab5_GSC.ipynb_checkpoints
+*.txt
+gsc_model_fixed.h
+*.zip
+backup.zip
